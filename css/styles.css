@@ -625,7 +625,7 @@ button {
 }
 
 .modal-check:checked+
-.modal-check-label>
+.modal-label>
 .modal-own-policy-span-check {
     border: none;
     background-color: #404BBF;
